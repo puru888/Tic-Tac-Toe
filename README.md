@@ -18,7 +18,7 @@
 |User can make desired board size.| ![Customize Grid](https://user-images.githubusercontent.com/67874545/186774850-d0ad13ec-0d0f-45ce-9e96-7ff76d403c68.png)  |
 
 ## How To Use
-<b>Note: You need to install JDK to run this application.</b>
+<b>Note: You need to install [JDK](https://www.oracle.com/java/technologies/downloads/#jdk18-windows) to run this application.</b>
 * Clone the project form the github.
 * Open the project in the desiered IDE.
 * The first user is X and second user is O.<br/><br/> 
